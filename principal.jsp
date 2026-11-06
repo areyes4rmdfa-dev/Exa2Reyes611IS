@@ -114,7 +114,7 @@
                 <div class="thumbnail">
                    
                 </div>
-                <h4>LISTA OFICIAL DE USARIOS DE SISTEMA</h4>
+                <h4>LISTA OFICIAL DE TIPS DE SISTEMA</h4>
                 <br>
             </center>  
                 <%@include file="conexion.jsp"%>
